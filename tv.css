@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: bold;
+    margin-top: 0px;
+    background-color: #d0f4de;
+    color: #c77dff;
+}
+
+.link{
+    background-color: plum;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px powderblue;
+}
